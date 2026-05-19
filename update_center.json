@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/CarlArvie/flutter_pos-releases/releases/download/v0.4.1/pos-app-v0.4.1.apk",
     "changeLog": "- Updated payment module\n- Bug fixes and performance improvements",
     "sourceUrl": "https://github.com/CarlArvie/flutter_pos-releases",
-    "versionCode": 2,
+    "versionCode": 99,
     "minSupport": 1
   },
   "windows": {
@@ -12,7 +12,7 @@
     "downloadUrl": "https://github.com/CarlArvie/flutter_pos-releases/releases/download/v0.4.1/pos-setup-v0.4.1.exe",
     "changeLog": "- Updated payment module\n- Bug fixes and performance improvements",
     "sourceUrl": "https://github.com/CarlArvie/flutter_pos-releases",
-    "versionCode": 2,
+    "versionCode": 99,
     "minSupport": 1
   }
 }

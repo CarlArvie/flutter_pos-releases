@@ -1,6 +1,6 @@
 {
   "android": {
-    "versionName": "0.4.1",
+    "versionName": "0.4.2",
     "downloadUrl": "https://github.com/CarlArvie/flutter_pos-releases/releases/download/v0.4.2/pos-app-v0.4.2.apk",
     "changeLog": "- Updated payment module\n- Bug fixes and performance improvements",
     "sourceUrl": "https://github.com/CarlArvie/flutter_pos-releases",

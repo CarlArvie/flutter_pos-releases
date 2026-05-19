@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/CarlArvie/flutter_pos-releases/releases/download/v0.3.0-alpha/0.3.0.apk",
     "changeLog": "- Updated payment module\n- Bug fixes and performance improvements",
     "sourceUrl": "https://github.com/CarlArvie/flutter_pos-releases",
-    "versionCode": 2,
+    "versionCode": 1,
     "minSupport": 1
   },
   "windows": {

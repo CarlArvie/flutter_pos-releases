@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/CarlArvie/flutter_pos-releases/releases/download/v0.3.7-alpha/app.apk",
     "changeLog": "- Fixed employee sync issues by streaming directly from Supabase\n- Removed local database dependency for employee list",
     "sourceUrl": "https://github.com/CarlArvie/flutter_pos-releases",
-    "versionCode": 4,
+    "versionCode": 3,
     "minSupport": 1
   },
   "windows": {
